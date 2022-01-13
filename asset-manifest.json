@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DonNTU_bpid_lsb-2022/static/css/main.168872f5.css",
+    "main.js": "/DonNTU_bpid_lsb-2022/static/js/main.5e728cc8.js",
+    "index.html": "/DonNTU_bpid_lsb-2022/index.html",
+    "main.168872f5.css.map": "/DonNTU_bpid_lsb-2022/static/css/main.168872f5.css.map",
+    "main.5e728cc8.js.map": "/DonNTU_bpid_lsb-2022/static/js/main.5e728cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168872f5.css",
+    "static/js/main.5e728cc8.js"
+  ]
+}
